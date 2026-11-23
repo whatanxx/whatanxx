@@ -10,8 +10,7 @@ internetowym (WordPress), więc problemy "produkcyjne" znam z praktyki.
   z AI-coachem. Architektura mikroserwisowa: FastAPI + React + PostgreSQL,
   Docker Compose, CI/CD w GitHub Actions, wdrożenie na GCP Cloud Run.
   Projekt zespołowy (4 osoby) – odpowiadałem za koordynację zadań,
-  CI/CD i wdrożenie w chmurze. (Frontend w Reakcie był pracą kolegi – sam backend
-  i DevOps to moje środowisko.)
+  CI/CD i wdrożenie w chmurze.
 - **[python-ai-cli-agent](https://github.com/whatanxx/python-ai-cli-agent)** – agent AI
   do pracy z terminala; testy pytest, nowoczesny tooling (uv, pyproject).
 - **[asteroids-game](https://github.com/whatanxx/asteroids-game)** – gra typu Asteroids
